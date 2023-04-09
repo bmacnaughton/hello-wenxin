@@ -1,0 +1,10 @@
+[package]
+name = "hello-wenxin"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bruce A. MacNaughton <bmacnaughton@gmail.com>"]
+description = "A program to release as a .deb file"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
